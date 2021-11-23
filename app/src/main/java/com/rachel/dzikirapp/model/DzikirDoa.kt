@@ -1,4 +1,4 @@
-package com.rachel.dzikirapp
+package com.rachel.dzikirapp.model
 
 data class DzikirDoa(
     var desc : String ="",

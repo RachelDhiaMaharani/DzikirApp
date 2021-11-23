@@ -1,4 +1,4 @@
-package com.rachel.dzikirapp
+package com.rachel.dzikirapp.model
 
 object DataDzikirDoa {
     private val descQauliyah = arrayOf(

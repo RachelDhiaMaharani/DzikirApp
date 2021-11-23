@@ -1,4 +1,4 @@
-package com.rachel.dzikirapp
+package com.rachel.dzikirapp.model
 
 import android.os.Parcelable
 import kotlinx.parcelize.Parcelize
